@@ -13,8 +13,8 @@ html {
 .entity h3 a:visited,
 .entity h3 a:hover,
 .entity h3 a:active {
-  color: #17231d;
-  -webkit-text-fill-color: #17231d;
+  color: #17231d !important;
+  -webkit-text-fill-color: #17231d !important;
 }
 
 /* 3. Keep hero borders away from content */
